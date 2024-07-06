@@ -2,8 +2,7 @@
   "apps": [
     {
       "Steam": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
-      "EpicGames": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
-      "Rockstar": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+      "EpicGames": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
     }
   ]
 }
