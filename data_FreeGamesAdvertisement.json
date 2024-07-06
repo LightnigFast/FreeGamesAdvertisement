@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "Steam": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+      "Steam": "https://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json",
       "EpicGames": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
     }
   ]
