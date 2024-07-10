@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "Steam": "https://api.steampowered.com/ISteamApps/GetAppList/v0002/?key=STEAMKEY&format=json",
+      "Steam": "https://store.steampowered.com/search/?force_infinite=1&maxprice=free&category1=998&os=win&filter=comingsoon&ndl=1",
       "Epic Games": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
     }
   ]
